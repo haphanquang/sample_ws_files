@@ -1,0 +1,28 @@
+{"login":{
+"success": true,
+"data": {
+"user": {
+"id": 1,
+"email": "abc@inte.co.jp",
+"first_name": "Jackson",
+"last_name": "Michen",
+"image_url": "http://domain.com/abc.png",
+"auth_token": "12wf4VcznNxe3Wo8EMKg",
+"devision_id": "1",
+"devision_name": "Maketing",
+"group_id ": "1",
+"group_name": "Nighting Gale",
+"currency": {
+"id": 1,
+"name": "United States dollar",
+"code": "USD",
+"symbol": "$"
+},
+"template": {
+"id": 1,
+"name": "Blue Sky"
+}
+}
+}
+}
+}
